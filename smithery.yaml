@@ -1,0 +1,6 @@
+name: genpark-generalized-advantage-estimation-gae-skill
+version: 1.0.0
+description: Generalized Advantage Estimation (GAE) calculator computing temporal difference advantages and returns
+command: python
+args:
+  - mcp_server.py
