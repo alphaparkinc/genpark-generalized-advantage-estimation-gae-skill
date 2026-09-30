@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-generalized-advantage-estimation-gae-skill"
+version = "1.0.0"
+description = "Generalized Advantage Estimation (GAE) calculator computing temporal difference advantages and returns"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
