@@ -1,0 +1,20 @@
+{
+  "name": "genpark-generalized-advantage-estimation-gae-skill",
+  "version": "1.0.0",
+  "description": "Generalized Advantage Estimation (GAE) calculator computing temporal difference advantages and returns",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "gae",
+    "advantage-estimation",
+    "temporal-difference",
+    "rlhf",
+    "value-function",
+    "python-standard-library",
+    "agent-skills",
+    "reinforcement-learning",
+    "returns",
+    "developer-tools"
+  ]
+}
